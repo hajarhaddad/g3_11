@@ -69,6 +69,7 @@ Nombre maximal de prospects : 1415.38
 
   - chapitre1.py : Script Python contenant la résolution avec PuLP de 3 variables.
   - chapitre2.py : Script Python contenant la résolution avec PuLP de 4 variables.
+  - utilisateurs.py: Script Python contenant la résolution avec PuLP de 4 variables mais les input par choix d'utilisateurs.
   - README.md : Guide d'utilisation du projet.
 
 👥 Équipe Projet
